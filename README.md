@@ -4,9 +4,10 @@ Welcome to my GitHub profile! My name is Jun and I'm a passionate backend develo
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python
-- **Web Framework:** FastAPI
-- **Databases:** MySQL, PostgreSQL
+- **Languages:** Python, C
+- **Web Framework:** FastAPI, Streamlit
+- **Databases:** PostgreSQL
+- **Library:** Pytorch, Scikit-learn, XGBoost
 - **Areas of Interest:** Machine Learning
 
 ## 🤝 Let's Connect!
