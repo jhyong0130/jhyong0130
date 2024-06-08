@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! My name is Jun and I'm a passionate backend developer with a special affinity for Python 🐍.
+Welcome to my GitHub profile! My name is Jun and I'm a passionate ML developer with a special affinity for Python 🐍.
 
 ## 🛠️ Tech Stack
 
