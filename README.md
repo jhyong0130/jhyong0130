@@ -4,11 +4,11 @@ Welcome to my GitHub profile! My name is Jun and I'm a passionate ML developer w
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C
-- **Web Framework:** FastAPI, Streamlit
+- **Languages:** Python, C, MATLAB
+- **Web Framework:** FastAPI, Streamlit, AWS
 - **Databases:** PostgreSQL
 - **Library:** Pytorch, Scikit-learn, XGBoost
-- **Areas of Interest:** Machine Learning
+- **Areas of Interest:** MLOps, LLMOps
 
 ## 🤝 Let's Connect!
 
